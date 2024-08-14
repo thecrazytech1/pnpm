@@ -1,0 +1,19 @@
+{
+  "name": "@thecrazytech1/pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entrypoint.sh",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecrazytech1/pnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecrazytech1/pnpm/issues"
+  },
+  "homepage": "https://github.com/thecrazytech1/pnpm#readme"
+}
